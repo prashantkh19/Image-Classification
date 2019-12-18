@@ -51,3 +51,5 @@ Unfreeze model is trained with a variable learning rate ranging from 1e-6 to 1e-
 </p>
 
 It also showed the same confusion as the previous model.
+
+> **The notebook can be easily viewed [here](https://www.kaggle.com/prashantkh19/intel-image-classification-resnet-93-40).**
