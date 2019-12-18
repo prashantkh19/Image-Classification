@@ -1,4 +1,4 @@
-# Image-Classification
+# Image-Scene-Classification
 
 [fastai](https://docs.fast.ai/) framework is used to classify natural scenes images, provided in the [dataset](https://www.kaggle.com/puneet6060/intel-image-classification). 
 Particularly, transfer learning on resnet-34 and resnet-50 models (trained on [Image-Net](http://image-net.org/)) is used.
